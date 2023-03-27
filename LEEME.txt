@@ -1,0 +1,18 @@
+
+Este proyecto contiene el código fuente para el proyecto propuesto por GNK a desarrollar para
+el candidato: Abidan Ahiezer Carranza Talabera.
+
+Dentro de la carpeta: RESOURCES se encuentran los documentos:
+Consulta_medicamentos.war: archivo de compilación para ser montado en servidor web.
+DUMP_proyecto_gnk.sql: script para creación de base de datos, tablas e insersión de información de pruebas.
+
+Tecnologías usadas:
+Java 1.8
+Servlets
+MySQL v8.0.31
+MySQL Connector 8.0.32 jar
+STL 1.2 jar
+Apache Tomcat 8.5.79
+Bootstrap
+
+El proyecto se encuentra desplegado en la siguiente dirección web: http://ahiezer3.ddns.net:8080/Consulta_medicamentos/
