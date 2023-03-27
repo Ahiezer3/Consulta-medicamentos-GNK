@@ -2,9 +2,13 @@
 Este proyecto contiene el código fuente para el proyecto propuesto por GNK a desarrollar para
 el candidato: Abidan Ahiezer Carranza Talabera.
 
-Dentro de la carpeta: RESOURCES se encuentran los documentos:
-Consulta_medicamentos.war: archivo de compilación para ser montado en servidor web.
-DUMP_proyecto_gnk.sql: script para creación de base de datos, tablas e insersión de información de pruebas.
+INSTRUCCIONES
+
+1.- Dentro de la carpeta: RESOURCES se encuentran los documentos:
+    *Consulta_medicamentos.war: archivo de compilación para ser montado en servidor web.
+    *DUMP_proyecto_gnk.sql: script para creación de base de datos, tablas e insersión de información de pruebas.
+
+2.- El enumeral: DatabaseConectionConfigEnum dentro del paquete: tools, contiene variables con valores estáticos para la conexión a la base de datos.
 
 Tecnologías usadas:
 Java 1.8
